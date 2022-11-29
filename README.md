@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=FloranGoumaud&count_private=true&show_icons=true&theme=dark" align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FloranGoumaud&layout=compact&langs_count=8&theme=algolia" align="center">
 </p>
